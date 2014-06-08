@@ -1,10 +1,29 @@
+html,body
+{
+	min-height: 36em;
+}
+
 body
 {
 	font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif;
+	text-align: center;
+	width: 36em;
+	height: 100%;
+	margin: 2.8em auto;
 }
 
 h1
 {
 	font-family: Arial, sans-serif;
 	font-size: 1.6em;
+}
+
+p
+{
+	text-align: left;
+}
+
+.meta
+{
+	text-align: center;
 }
