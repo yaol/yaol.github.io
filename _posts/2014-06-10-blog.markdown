@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "短一些啦"
-date:   2014-06-08 22:53:14
+date:   2014-06-10 22:53:14
 categories: jekyll update
 ---
 
