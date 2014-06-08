@@ -6,10 +6,10 @@ layout: main
   <h1>记己的事情</h1>
   <div class="posts">
     {% for post in site.posts %}
-      <p>
+      <div class="entry">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-      </p>
+      </div>
     {% endfor %}
   </div>
 </div>

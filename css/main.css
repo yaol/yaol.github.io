@@ -18,10 +18,21 @@ h1
 	font-size: 1.6em;
 }
 
-p
+.entry
 {
 	text-align: left;
-	margin: 0.7em 2em;
+	margin: 0.7em 2.4em;
+	overflow: auto;
+}
+
+.entry a
+{
+	float: left;
+}
+
+.entry span
+{
+	float: right;
 }
 
 a:link,hover,active
