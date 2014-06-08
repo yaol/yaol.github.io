@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "随便写一篇带有english标题的文章"
+title:  "随便写一篇带english标题的"
 date:   2014-06-07 22:53:14
 categories: jekyll update
 ---
