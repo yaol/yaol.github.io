@@ -1,22 +1,26 @@
+html,body
+{
+	height: 100%;
+}
+
 body
 {
 	font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif;
 	text-align: center;
 	width: 28em;
-	margin: auto;
+	margin: 2.8em auto auto auto;
 }
 
-page-content
+.page-content
 {
 	width: inherit;
-	margin: auto;
 }
 
 h1
 {
 	font-family: Arial, sans-serif;
 	font-size: 1.6em;
-	margin: 3.2em auto 1.2em auto;
+	margin-bottom: 1.2em;
 }
 
 .entry
