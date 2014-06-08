@@ -2,7 +2,7 @@ body
 {
 	font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif;
 	text-align: center;
-	width: 36em;
+	width: 32em;
 	margin: auto;
 }
 
@@ -23,6 +23,7 @@ h1
 	text-align: left;
 	margin: 0.7em 2.4em;
 	overflow: auto;
+	height: 1.6em;
 }
 
 .entry a
