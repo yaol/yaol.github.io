@@ -24,18 +24,14 @@ p
 	margin: 0.7em 2em;
 }
 
-a:link
+a:link,hover,active
 {
 	text-decoration: none;
-}
-
-a:hover,active
-{
-	text-decoration: none;
+	color: green;
 }
 
 a:visited
 {
 	text-docoration: none;
-	color: green;
+	color: black;
 }
