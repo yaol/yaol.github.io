@@ -3,7 +3,6 @@
 html,body
 {
 	height: 36em;
-	font-size: 2.6em;
 }
 
 body
@@ -25,6 +24,11 @@ h1
 em
 {
 	font-style: normal;
+}
+
+.posts
+{
+	font-size: 2.6em;
 }
 
 .entry
