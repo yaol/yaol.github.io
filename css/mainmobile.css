@@ -1,0 +1,75 @@
+@media screen and (max-device-width: 800px){
+
+html,body
+{
+	height: 36em;
+}
+
+body
+{
+	font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", sans-serif;
+	text-align: center;
+	width: 90%;
+	height: 100%;
+	margin: 2.8em 5%;
+}
+
+h1
+{
+	font-family: Arial, sans-serif;
+	font-size: 3.6em;
+	margin-bottom: 1.2em;
+}
+
+em
+{
+	font-style: normal;
+}
+
+.entry
+{
+	text-align: left;
+	margin: 0.7em 2.4em;
+	overflow: auto;
+	height: 1.2em;
+}
+
+.pagination
+{
+	margin-top: 1.2em;
+}
+
+.entry a
+{
+	float: left;
+}
+
+.entry span
+{
+	float: right;
+}
+
+.post-link:link,hover,active
+{
+	text-decoration: none;
+	color: green;
+}
+
+.post-link:visited
+{
+	text-docoration: none;
+	color: black;
+}
+
+.navi-link
+{
+	text-decoration: none;
+	color: green;
+}
+
+.pagination .navi-link,.pagination span,.pagination em
+{
+	margin: auto 0.2em;
+}
+
+}
