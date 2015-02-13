@@ -7,7 +7,7 @@ body
 {
 	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;
 	text-align: center;
-	width: 48em;
+	width: 45em;
 	height: 100%;
 	margin: 2.8em auto;
 }
@@ -22,7 +22,7 @@ p
 {
 	text-align: left;
 	line-height: 1.5;
-	font-size: 1.2em;
+	font-size: 1.6em;
 	color: rgb(72,72,72);
 }
 
