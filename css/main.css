@@ -10,7 +10,6 @@ body
 	width: 36em;
 	height: 100%;
 	margin: 2.8em auto auto auto;
-	font-size:1.4em;
 }
 
 h1
@@ -31,6 +30,7 @@ em
 	margin: 0.7em 2.4em;
 	overflow: auto;
 	height: 1.2em;
+	font-size:1.2em;
 }
 
 .pagination
