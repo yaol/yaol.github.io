@@ -14,7 +14,7 @@ body
 
 h1
 {
-	font-size: 2em;
+	font-size: 1.8em;
 	font-weight: bold;
 }
 
@@ -22,7 +22,7 @@ p
 {
 	text-align: left;
 	line-height: 1.5;
-	font-size: 1.4em;
+	font-size: 1.2em;
 	color: rgb(72,72,72);
 }
 
