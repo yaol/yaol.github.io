@@ -34,7 +34,7 @@ em
 .entry
 {
 	text-align: left;
-	margin: 0.7em 2.4em;
+	margin: 0.7em auto;
 	overflow: auto;
 	height: 1.2em;
 }
